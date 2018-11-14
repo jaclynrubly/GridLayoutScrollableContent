@@ -2,11 +2,10 @@
 
 A Masonry-powered grid layout with a motion hover effect on the grid items and a scrollable content view.
 
-![Image Title](link)
 
 [Article on Codrops](https://tympanus.net/codrops/?p=35959)
 
-[Demo](http://tympanus.net/Development/GridLayoutScrollableContent/)
+Demo : https://jaclynrubly.github.io/GridLayoutScrollableContent/
 
 ## Credits
 
